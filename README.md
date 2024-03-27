@@ -24,7 +24,7 @@ The evaluation process involves the following steps:
    - It turns out that the generated text aligns well with a predefined expected response.
 
 ## Task 4. Text Generation, Web Application
-- **Application Development**: A web application is developed as required.
+- **Application Development**: A web application is developed with Dash for demonstration. 
 - **Interface Illustration**:
   ![alt text](image.png)
 - **Running the Application**: To run the web application, execute the command `python app.py` from the app folder.
